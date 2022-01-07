@@ -7,4 +7,8 @@
     let right = x;
 
     if(x < 2) return x;
+
+    while(left < right) {
+        
+    }
 };
