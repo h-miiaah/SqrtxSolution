@@ -26,6 +26,7 @@
 - loop while left variable is less than right variable
 - calculate the middle value of the left and right variables
 - check if the middle variable value squared is equal to x
+- if it is, then we return the middle variable value
 
 
 */
