@@ -29,6 +29,7 @@
 - if it is, then we return the middle variable value
 - if it isn’t, then we check if the middle variable value squared is greater than x
 - if it is, then we update the right variable to be the middle variable value
-- If it isn’t, then we update the left variable to be the middle variable value plus one
+- if it isn’t, then we update the left variable to be the middle variable value plus one
+- if we’ve looped through the while loop without returning, then we return the left variable minus one
 
 */
