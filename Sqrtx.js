@@ -10,5 +10,7 @@
 
     while(left < right) {
         const middle = Math.floor((left + right) / 2)
+
+        if (middle * middle === x) return middle
     }
 };
