@@ -12,5 +12,6 @@
         const middle = Math.floor((left + right) / 2)
 
         if (middle * middle === x) return middle
+        else if (middle * middle > x) right = middle
     }
 };
