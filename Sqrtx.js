@@ -13,5 +13,6 @@
 
         if (middle * middle === x) return middle
         else if (middle * middle > x) right = middle
+        else left = middle + 1
     }
 };
