@@ -18,3 +18,10 @@
 
     return left - 1
 };
+
+
+/*
+
+- start with a left variable of 1 and a right variable of x
+
+*/
