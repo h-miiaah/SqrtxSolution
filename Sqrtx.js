@@ -9,6 +9,6 @@
     if(x < 2) return x;
 
     while(left < right) {
-        
+        const middle = Math.floor((left + right) / 2)
     }
 };
