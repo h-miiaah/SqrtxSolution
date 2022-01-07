@@ -24,5 +24,6 @@
 
 - start with a left variable of 1 and a right variable of x
 - loop while left variable is less than right variable
+- calculate the middle value of the left and right variables
 
 */
